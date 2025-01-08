@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarDarame
 - 👀 I’m interested in ...frontend web developer
-- 🌱 I’m currently learning ...frontend developer
+- 🌱 I’m currently learning ...frontend
 - 💞️ I’m looking to collaborate on ...work 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
